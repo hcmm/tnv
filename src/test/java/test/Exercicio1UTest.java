@@ -3,8 +3,8 @@ package test;
 import org.junit.Assert;
 import org.junit.Test;
 
-import br.com.tnv.eletiroes.Totalizador;
-import br.com.tnv.eletiroes.Votos;
+import br.com.tnv.eleitores.Totalizador;
+import br.com.tnv.eleitores.Votos;
 
 public class Exercicio1UTest {
 	

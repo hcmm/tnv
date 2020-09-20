@@ -1,4 +1,4 @@
-package br.com.tnv.eletiroes;
+package br.com.tnv.eleitores;
 
 public class Totalizador {
 	
