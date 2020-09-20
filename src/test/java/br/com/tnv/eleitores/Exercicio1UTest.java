@@ -1,4 +1,4 @@
-package test;
+package br.com.tnv.eleitores;
 
 import org.junit.Assert;
 import org.junit.Test;
